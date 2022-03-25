@@ -4,10 +4,10 @@
 <p align="center">Sou pai, marido e no resto do tempo desenvolvedor fullstack 😉️</p>
 <p align="center">Atualmente trabalho na <a href="https://www.lojascem.com.br/"><i>Lojas Cem</i></a> como desenvolvedor fullstack. E estou iniciando as atividades da <a href="https://www.inovaetech.com.br/"><i>Inovae Tech</i></a> uma empresa de tecnologia,</p>
 
-<div align="center">
+<div align="center" flex=1>
   <a href="https://github.com/wesleyralmeida">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=wesleyralmeida&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox&hide_border=false&show_owner=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyralmeida&theme=gruvbox&hide_border=false&&layout=compact"/>
+    <img height="140em" flex=1 src="https://github-readme-stats.vercel.app/api?username=wesleyralmeida&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox&hide_border=false&show_owner=true"/>
+    <img height="140em" flex=1 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyralmeida&theme=gruvbox&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
