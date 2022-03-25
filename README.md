@@ -1,14 +1,15 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o <a href="https://www.linkedin.com/in/wesley-rodrigues-de-almeida-74b92a26/"><i>Wesley Rodrigues</i></a></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyralmeida&color=yellow" alt="Profile views" /> </p>
-  
-<p align="center">Sou pai, marido e no resto do tempo desenvolvedor fullstack 😉️</p>
-<p align="center">Atualmente trabalho na <a href="https://www.lojascem.com.br/"><i>Lojas Cem</i></a> como desenvolvedor fullstack. E estou iniciando as atividades da <a href="https://www.inovaetech.com.br/"><i>Inovae Tech</i></a> uma empresa de tecnologia,</p>
+<div align="center">
+  <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou o <a              href="https://www.linkedin.com/in/wesley-rodrigues-de-almeida-74b92a26/"><i>Wesley Rodrigues</i></a></h1>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyralmeida&color=yellow" alt="Profile views" /> </p>
 
-<div width=100%>
+  <p align="center">Sou pai, marido e no resto do tempo desenvolvedor fullstack 😉️</p>
+  <p align="center">Atualmente trabalho na <a href="https://www.lojascem.com.br/"><i>Lojas Cem</i></a> como desenvolvedor fullstack. E estou iniciando as atividades da     <a href="https://www.inovaetech.com.br/"><i>Inovae Tech</i></a> uma empresa de tecnologia,</p>
+</div>
+  
+<div align="center">
   <a href="https://github.com/wesleyralmeida">
-    <img height="150em" width=40% float=left src="https://github-readme-stats.vercel.app/api?username=wesleyralmeida&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox&hide_border=false&show_owner=true"/>
-    <img height="150em" width=60% float=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyralmeida&theme=gruvbox&hide_border=false&&layout=compact"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleyralmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyralmeida&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center" valign="top"><br>
@@ -23,7 +24,5 @@
 </div><br>
 
 <div align="center">
-  
   ![Snake animation](https://github.com/wesleyralmeida/wesleyralmeida/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
