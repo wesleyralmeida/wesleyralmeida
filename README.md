@@ -3,7 +3,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyralmeida&color=yellow" alt="Profile views" /> </p>
 
   <p align="center">Sou pai, marido e no resto do tempo desenvolvedor fullstack 😉️</p>
-  <p align="center">Atualmente trabalho na <a href="https://www.lojascem.com.br/"><i>Lojas Cem</i></a> como desenvolvedor fullstack. E estou iniciando as atividades da     <a href="https://www.inovaetech.com.br/"><i>Inovae Tech</i></a> uma empresa de tecnologia</p>
+<!--   <p align="center">Atualmente trabalho na <a href="https://www.lojascem.com.br/"><i>Lojas Cem</i></a> como desenvolvedor fullstack. E estou iniciando as atividades da     <a href="https://www.inovaetech.com.br/"><i>Inovae Tech</i></a> uma empresa de tecnologia</p> -->
 </div>
 
 <div align="center" valign="top"><br>
